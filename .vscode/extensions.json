@@ -1,0 +1,20 @@
+{
+	// See http://go.microsoft.com/fwlink/?LinkId=827846
+	// for the documentation about the extensions.json format
+	"recommendations": [
+		// Extension identifier format: ${publisher}.${name}. Example: vscode.csharp
+		"formulahendry.auto-close-tag",
+		"alefragnani.Bookmarks",
+		"joelday.docthis",
+		"sidthesloth.html5-boilerplate",
+		"Zignd.html-css-class-completion",
+		"Compulim.vscode-ipaddress",
+		"gerane.Theme-iPlastic",
+		"christian-kohler.path-intellisense",
+		"jvitor83.typings-autoinstaller",
+		"pmneo.tsimporter",
+		"DSKWRK.vscode-generate-getter-setter",
+		"slevesque.vscode-hexdump",
+		"azemoh.one-monokai" //theme
+	]
+}

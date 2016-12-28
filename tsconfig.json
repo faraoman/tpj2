@@ -1,0 +1,16 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "allowSyntheticDefaultImports": true,
+        "declaration": true,
+        "declarationDir": "typings",
+        "emitDecoratorMetadata": true,
+        "emitBOM": true,
+        "sourceMap": true,
+        "outDir": "dist",
+        "module": "commonjs",
+        "moduleResolution": "classic",
+         "inlineSourceMap": true,
+         "listEmittedFiles": true
+    }
+}
